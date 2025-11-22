@@ -1,7 +1,7 @@
 const int TX_PIN = 5;      
 const int BIT_DELAY = 833;
 
-String message = "ValentynB_2025_11_21";
+String message = "ValentynB_2025_11_21"; // Message to be transmitted
 
 void sendByte(uint8_t b) {
   digitalWrite(TX_PIN, LOW);
