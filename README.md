@@ -43,7 +43,7 @@ This allows emulation of UART transmission entirely in software.
 
 ## Hardware Connection Photo
 
-![Connection between ESP32-C3FH4 and CP2102 USB–UART adapter](connection.jpg)
+<img src="connection.jpg" width="300">
 
 *Figure 1. Physical wiring between ESP32-C3FH4 and the CP2102 USB–UART converter.*
 
